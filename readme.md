@@ -7,5 +7,3 @@ Helps detect and prevent basic spoofing or fake identity attempts
 Developed with simplicity and ease of use in mind
 
 Suitable for attendance systems and classroom monitoring 📋
-
-Lightweight, beginner-friendly, and easy to understand 🚀
